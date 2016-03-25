@@ -1,0 +1,28 @@
+
+
+Version:	3.8
+CmdLine:	C:\Users\user\Documents\NetBeansProjects\JJIL_Disertacion\lib\App.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\user\Documents\NetBeansProjects\JJIL_Disertacion\lib\.
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_40
+Check launcher:	C:\Program Files\Java\jre1.8.0_40\bin\javaw.exe (OK)
+Match:		1.8.0_40
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.7
+Ignore:		1.7
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.7.0_02
+Ignore:		1.7.0_02
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.7.0_17
+Ignore:		1.7.0_17
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_40
+Ignore:		1.8.0_40
+Runtime used:	1.8.0_40 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_40\bin\javaw.exe
+Launcher args:	-jar "C:\Users\user\Documents\NetBeansProjects\JJIL_Disertacion\lib\App.exe"
+Args length:	76/32768 chars
+Exit code:	0
